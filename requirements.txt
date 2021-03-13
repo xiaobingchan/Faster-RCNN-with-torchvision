@@ -1,0 +1,7 @@
+torch
+pycocotools
+opencv_python
+numpy==1.16.4
+torchvision
+Pillow==6.1.0
+vision
